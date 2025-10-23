@@ -17,3 +17,9 @@
 ### Added
 
 - Added `multiply(a, b)` function in `functions.py` to perform multiplication.
+=======
+
+- Added `exp(a, b)` function in `functions.py` to perform exponential.
+=======
+- Added `divide(a, b)` function in `functions.py` to perform division.
+
