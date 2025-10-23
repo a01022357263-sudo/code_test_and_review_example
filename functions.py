@@ -7,5 +7,5 @@ def minus(a, b):
     return a - b
 
 def multiply(a, b):
-    """Multiply two numbers."""
+    """Multiply two numbers. """
     return a * b
